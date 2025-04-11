@@ -1,0 +1,10 @@
+1m Kaldýraç = 1 Yüzde = 1.0 Baþarýlý Ýþlem = 8334 Baþarýsýz Ýþlem = 15964 Ýþlem Sonu Bakiye = 35.9097142219858
+3m Kaldýraç = 1 Yüzde = 4.5 Baþarýlý Ýþlem = 1849 Baþarýsýz Ýþlem = 3734 Ýþlem Sonu Bakiye = 95.78766587610306
+5m Kaldýraç = 2 Yüzde = 0.5 Baþarýlý Ýþlem = 1219 Baþarýsýz Ýþlem = 1314 Ýþlem Sonu Bakiye = 123.37618777291054
+15m Kaldýraç = 7 Yüzde = 2.0 Baþarýlý Ýþlem = 287 Baþarýsýz Ýþlem = 383 Ýþlem Sonu Bakiye = 1818.9220769205754
+30m Kaldýraç = 7 Yüzde = 1.0 Baþarýlý Ýþlem = 215 Baþarýsýz Ýþlem = 125 Ýþlem Sonu Bakiye = 672.935293751914
+1h Kaldýraç = 7 Yüzde = 0.5 Baþarýlý Ýþlem = 169 Baþarýsýz Ýþlem = 27 Ýþlem Sonu Bakiye = 264.4301625970478
+2h Kaldýraç = 10 Yüzde = 0.5 Baþarýlý Ýþlem = 84 Baþarýsýz Ýþlem = 10 Ýþlem Sonu Bakiye = 387.9153095446355
+4h Kaldýraç = 1 Yüzde = 6.5 Baþarýlý Ýþlem = 25 Baþarýsýz Ýþlem = 37 Ýþlem Sonu Bakiye = 110.72606988745638
+1d Kaldýraç = 6 Yüzde = 2.5 Baþarýlý Ýþlem = 15 Baþarýsýz Ýþlem = 1 Ýþlem Sonu Bakiye = 763.1289869067889
+1w Kaldýraç = 1 Yüzde = 5.0 Baþarýlý Ýþlem = 9 Baþarýsýz Ýþlem = 2 Ýþlem Sonu Bakiye = 94.34029935635824
